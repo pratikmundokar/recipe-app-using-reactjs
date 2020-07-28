@@ -6,8 +6,8 @@ import Recipe from './Recipe';
 
 const App =()=>{
 
-  const APP_ID ="ccc50a47";
-  const APP_KEY="3ea106423c81e2be9a7ad7b743a5e618";
+  const APP_ID ="";
+  const APP_KEY="";
 
 
   const [recipes, setRecipe] = useState([]);
