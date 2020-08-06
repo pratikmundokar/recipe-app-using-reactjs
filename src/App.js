@@ -58,4 +58,3 @@ const getSearch = e =>{
 }
 
 export default App;
-//END
